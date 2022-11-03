@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+/* color of background */
+body {
+    background-color: rgb(151, 169, 177);
+    height:100vh;
+    column-gap: 20px;
+    
+}
+
+/* contents of header */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(10, 10, 10, 0.712);
+    background-color: rgb(151, 169, 177);
+    
+
+}
+/* contents for background image */
+.background {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/2880x1800-pastel-blue-solid-color-background.jpg"); 
+    background-size: cover;
+    background-position: center;
+    
+}
+/* contents for my Nav */
+nav{
+    padding: 20px;
+    margin: 20px;
+    float: right;
+    list-style-type: square;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* contents for profile pic */
+.profile-pic{
+    size: 20px;
+}
+/* contents for li */
+li{
+    
+    padding: 5px;
+    font-size: 30px;
+    color: rgb(224, 215, 215);
+}
+/* contents for aside */
+aside{
+    padding-top: 100px;
+    position:relative;
+    top: -200px;
+    margin-left: 1800px;
+    padding: 30px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(171, 195, 206);
+    text-align: left;
+}
+/* contents for aside image */
+aside img{
+    position: relative;
+    display: grid;
+    margin-left: 10px auto;
+    max-width: 50px;
+    border-radius: 50%;
+    mix-blend-mode:darken;
+    margin-left:auto;
+    padding:10px;
+}
+/* Contents for all images */
+img{
+    width: 100px;
+    border-radius: 10px;
+}
+/* contents for H1 */
+h1{
+    text-align: center;
+}
+a{
+    color:rgb(13, 75, 75);
+    text-decoration: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 25px;
+    
+ }
+section{
+    font-size: 30px;
+}
+.flex{
+    display: flexbox;
+    flex-direction: column;
+}
+/* info for footer */
+footer{
+    padding: 20px;
+    clear:both;
+    font-family: serif;
+    text-align: center;
+}
+footer h4{
+    font-size: 20px;
+}
+
