@@ -2,11 +2,11 @@
 
 ## Description
 
-In this project, I wanted to build a portfolio from scratch to test my skills. The code language we used were HTML, CSS, and IMG. Building this portfolio really challenged my little knowledge of coding, while building this it was brought to my attention that I still have more to learn about code. The biggest challenged was CSS, I was having a hard time with the property and connecting them to HTML. With this project, I want to show my skills and work to other hires and employees.
+In this project, I wanted to build a portfolio from scratch to test my skills.This project was made in VSCODE and then deployed through Github. The code language we used were HTML, CSS, and IMG. Building this portfolio really challenged my little knowledge of coding, while building this it was brought to my attention that I still have more to learn about code. The biggest challenged was CSS, I was having a hard time with the property and connecting them to HTML. With this project, I want to show my skills and work to other hires and employees. 
 
 
 ## Installation
-To run this project you can load it directly using the link provided. This project was made in vs code and delpoyed through github. It consisted of using HTML, CSS, and IMG files.
+To run this project you can load it directly using the link provided.
 
 ## Usage
 N/A
