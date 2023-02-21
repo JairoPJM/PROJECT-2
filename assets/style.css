@@ -41,9 +41,13 @@ nav{
     /* font-size: 20px; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-/* contents for profile pic */
-.profile-pic{
-    size: 20px;
+/* contents for goals class */
+.goals{
+    padding: 15px;
+}
+#profile-pic{
+    height: 100px;
+    width: 100px;
 }
 /* contents for li */
 li{
@@ -53,36 +57,41 @@ li{
     color: rgb(224, 215, 215);
 }
 /* contents for aside */
-aside{
-    padding-top: 100px;
-    position:relative;
-    top: -200px;
-    margin-left: 1800px;
-    padding: 30px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(171, 195, 206);
-    text-align: left;
+.bottom{
+position: relative;
+align-items: center;
+
 }
-/* contents for aside image */
-aside img{
+
+
+.my-projects img{
+    padding: 15px;
+    left: 230px;
     position: relative;
-    display: grid;
-    margin-left: 10px auto;
-    max-width: 50px;
-    border-radius: 50%;
-    mix-blend-mode:darken;
-    margin-left:auto;
-    padding:10px;
+    text-align: center;
+    height: 350px;
+    width: 530px;
+    border-radius: 50px;
+
 }
-/* Contents for all images */
-img{
+
+.bottom img{
+    left: 800px;
+    padding-left: 50px;
+    height: 100px;
     width: 100px;
     border-radius: 10px;
+    position:relative;
+    text-align: center;
+    mix-blend-mode:darken;
 }
+
+/* Contents for all images */
+/* img{
+    height: 350px;
+    width: 530px;
+    border-radius: 10px;
+} */
 /* contents for H1 */
 h1{
     text-align: center;
@@ -106,10 +115,10 @@ section{
 }
 /* info for footer */
 footer{
-    padding: 20px;
+    /* padding: 20px;
     clear:both;
     font-family: serif;
-    text-align: center;
+    text-align: center; */
 }
 footer h4{
     font-size: 20px;
