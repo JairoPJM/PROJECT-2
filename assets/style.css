@@ -23,7 +23,7 @@ header {
 }
 /* contents for background image */
 .background {
-    height: 400px;
+    height: 100px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../assets/images/2880x1800-pastel-blue-solid-color-background.jpg"); 
@@ -33,11 +33,12 @@ header {
 }
 /* contents for my Nav */
 nav{
-    padding: 20px;
-    margin: 20px;
-    float: right;
-    list-style-type: square;
-    font-size: 20px;
+    height: 5px;
+    /* padding: 20px; */
+    /* margin: 20px; */
+    /* float: right; */
+    /* list-style-type: square; */
+    /* font-size: 20px; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 /* contents for profile pic */
