@@ -9,7 +9,8 @@ In this project, I wanted to build a portfolio from scratch to test my skills.Th
 To run this project you can load it directly using the link provided.
 
 ## Usage
-N/A
+
+    https://github.com/JairoPJM/Test-Java/raw/master/Assets/pictures/part%202.PNG
 
 
 ## Credits
